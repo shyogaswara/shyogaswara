@@ -9,8 +9,6 @@ For now, im broading my knowledge into game making, inspired by ConcernedApe,
 and machine learning, for study purposses.
 
 
-You can reach me by sending email to sh.yogaswara@gmail.com
-
 <!---
 shyogaswara/shyogaswara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
